@@ -1,17 +1,17 @@
-# fourier_transform
+# fourier_transform<br/>
 
-fair winds and following seas on signal processing
+fair winds and following seas on signal processing<br/><br/>
 
-# Find in this repository:
+# Find in this repository:<br/>
 
-fourier transform algorithm for implementing a signal processing and filtering
+-fourier transform algorithm for implementing a signal processing and filtering<br/>
 
-fast fourier transform
+-fast fourier transform<br/>
 
-descrete fourier transform
+-descrete fourier transform<br/>
 
-sample project implementation in electronics.
+-sample project implementation in electronics.<br/>
 
-also the laplace transform as a signal processing tool
+-also the laplace transform as a signal processing tool<br/>
 
-examples and tests in different languages
+-examples and tests in different languages<br/>
